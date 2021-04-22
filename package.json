@@ -1,0 +1,20 @@
+{
+  "name": "module-2",
+  "version": "1.0.0",
+  "description": "Data selfie app by Joey Lee.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "API",
+    "Javascript",
+    "Selfie"
+  ],
+  "author": "Jagpat Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
